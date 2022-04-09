@@ -9,11 +9,11 @@ Description
 
 Models
 
-* [Blaster Kit](https://kenney.nl/assets/blaster-kit) from [kenney.nl](kenney.nl)
+* [Blaster Kit](https://kenney.nl/assets/blaster-kit) from [kenney.nl](https://kenney.nl)
 
-* [Blocky Characters](https://kenney.nl/assets/blocky-characters) from [kenney.nl](kenney.nl)
+* [Blocky Characters](https://kenney.nl/assets/blocky-characters) from [kenney.nl](https://kenney.nl)
 
-* [Platformer Kit](https://kenney.nl/assets/platformer-kit) from [kenney.nl](kenney.nl)
+* [Platformer Kit](https://kenney.nl/assets/platformer-kit) from [kenney.nl](https://kenney.nl)
 
 Music
 
@@ -21,9 +21,9 @@ Music
 
 Sounds
 
-* Coins1 from [ProjectsU012](https://freesound.org/people/ProjectsU012/sounds/341695/) on [freesound.org](freesound.org)
+* Coins1 from [ProjectsU012](https://freesound.org/people/ProjectsU012/sounds/341695/) on [freesound.org](https://freesound.org)
 
-* FX_Orc from [ForTheHorde68](https://freesound.org/people/ProjectsU012/sounds/341695/) on [freesound.org](freesound.org)
+* FX_Orc from [ForTheHorde68](https://freesound.org/people/ProjectsU012/sounds/341695/) on [freesound.org](https://freesound.org)
 
 ## Future Development
 
