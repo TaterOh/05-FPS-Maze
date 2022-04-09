@@ -9,7 +9,7 @@ Description
 
 Models
 
-* (Blaster Kit)[https://kenney.nl/assets/blaster-kit] from [kenney.nl] (kenney.nl)
+* [Blaster Kit](https://kenney.nl/assets/blaster-kit) from [kenney.nl](kenney.nl)
 
 * [Blocky Characters] (https://kenney.nl/assets/blocky-characters) from [kenney.nl] (kenney.nl)
 
