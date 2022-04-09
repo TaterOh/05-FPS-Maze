@@ -15,12 +15,13 @@ _global_script_class_icons={
 [application]
 
 config/name="05-FPS-Maze"
-run/main_scene="res://Game.tscn"
+run/main_scene="res://UI/Main.tscn"
 config/icon="res://icon.png"
 
 [autoload]
 
 Global="*res://Global.gd"
+AudioManager="*res://Sounds/Audio_Manager.tscn"
 
 [input]
 

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/No Place For Straw Cowboys.ogg-a3395b206d7bfe8c2b67e32e8e5f279a.oggstr"
+
+[deps]
+
+source_file="res://Music/No Place For Straw Cowboys.ogg"
+dest_files=[ "res://.import/No Place For Straw Cowboys.ogg-a3395b206d7bfe8c2b67e32e8e5f279a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

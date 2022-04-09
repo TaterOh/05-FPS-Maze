@@ -4,7 +4,6 @@ var menu = null
 
 func _ready():
 	pause_mode = Node.PAUSE_MODE_PROCESS
-	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 
 func _unhandled_input(_event):
 	if Input.is_action_pressed("menu"):
@@ -22,3 +21,11 @@ func play():
 	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 	get_tree().paused = false
 	menu.hide()
+
+func lose():
+	Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
+	var _scene = get_tree().change_scene("res://UI/Lose.tscn")
+
+func win():
+	Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
+	var _scene = get_tree().change_scene("res://UI/Win.tscn")
