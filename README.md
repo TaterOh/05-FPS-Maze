@@ -5,6 +5,16 @@ Description
 
 ## Implementation
 
+Enemies
+
+* Orc
+
+Music
+
+Sound effects
+
+Procedurally generating maze
+
 ## References
 
 Materials
