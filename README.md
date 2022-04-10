@@ -5,10 +5,6 @@ Description
 
 ## Implementation
 
-Enemies
-
-* Orc
-
 Music
 
 Sound effects
