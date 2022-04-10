@@ -21,6 +21,11 @@ Occlusion for windows
 
 ## References
 
+Shaders
+
+* [Clouds in Motion](https://godotshaders.com/shader/clouds-in-motion/0 by gerardogc2378 on [godotshaders.com](https://godotshaders.com)
+* [Fire Effect](https://godotshaders.com/shader/fire-effect/) by godotshaders on [godotshaders.com](https://godotshaders.com)
+
 Materials
 
 * [Tiles 086](https://ambientcg.com/view?id=Tiles086) from [ambientcg.com](https://ambientcg.com), licensed under CC0 1.0 Universal.
