@@ -49,6 +49,8 @@ Sounds
 
 * FX_Orc from [ForTheHorde68](https://freesound.org/people/ProjectsU012/sounds/341695/) on [freesound.org](https://freesound.org)
 
+* Shoot02 from [V-ktor](https://freesound.org/people/V-ktor/sounds/435417/) on [freesound.org](https://freesound.org)
+
 ## Future Development
 
 None
