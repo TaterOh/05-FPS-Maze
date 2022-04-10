@@ -23,7 +23,7 @@ Occlusion for windows
 
 Shaders
 
-* [Clouds in Motion](https://godotshaders.com/shader/clouds-in-motion/0 by gerardogc2378 on [godotshaders.com](https://godotshaders.com)
+* [Clouds in Motion](https://godotshaders.com/shader/clouds-in-motion/0) by gerardogc2378 on [godotshaders.com](https://godotshaders.com)
 * [Fire Effect](https://godotshaders.com/shader/fire-effect/) by godotshaders on [godotshaders.com](https://godotshaders.com)
 
 Materials
