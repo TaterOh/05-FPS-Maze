@@ -1,9 +1,13 @@
 # 05-FPS-Maze
-FPS Maze project for MSCH-C220 made 9 April 2022.
+FPS Maze project for MSCH-C220 finished 10 April 2022.
 
-Description
+Moves with WASD and shoot with the spacebar or leftclick.
 
 ## Implementation
+
+An enemy
+
+A gun
 
 Music
 
@@ -47,4 +51,8 @@ Sounds
 
 ## Future Development
 
+None
+
 ## Created by
+
+Thadeus Sylvester II
