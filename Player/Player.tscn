@@ -35,7 +35,7 @@ current = true
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.75, -0.35, -0.75 )
 
 [node name="Shoot_CD" type="Timer" parent="Pivot/Blaster_Pistol"]
-wait_time = 0.1
+wait_time = 0.2
 one_shot = true
 
 [node name="Flash" type="Spatial" parent="Pivot/Blaster_Pistol"]
