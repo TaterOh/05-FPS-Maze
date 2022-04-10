@@ -98,7 +98,7 @@ surfaces/0 = {
 }
 
 [sub_resource type="SphereShape" id=8]
-radius = 2.5
+radius = 2.0
 
 [sub_resource type="BoxShape" id=10]
 extents = Vector3( 0.45, 0.8, 0.35 )

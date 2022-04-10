@@ -13,6 +13,7 @@ var velocity = Vector3()
 onready var rc = $Pivot/RayCast
 onready var gun = $Pivot/Blaster_Pistol/Flash
 onready var Decal = preload("res://Player/Decal.tscn")
+onready var laser = preload("res://Sounds/laser1.ogg")
 
 func get_input():
 	var input_dir = Vector3()
@@ -49,11 +50,11 @@ func _physics_process(delta):
 			var c = rc.get_collider()
 			var decal = Decal.instance()
 			rc.get_collider().add_child(decal)
+			AudioManager.play_sfx(transform.origin, laser)
 			decal.global_transform.origin = rc.get_collision_point()
 			decal.look_at(rc.get_collision_point() + rc.get_collision_normal(), Vector3.UP)
 			if c.is_in_group("Enemy"):
 				c.queue_free()
-
 
 func _on_Shoot_CD_timeout():
 	can_shoot = true
