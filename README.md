@@ -15,6 +15,10 @@ Sound effects
 
 Procedurally generating maze
 
+Pause screen
+
+Win & lose screen
+
 ## References
 
 Materials
