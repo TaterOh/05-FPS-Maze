@@ -15,9 +15,9 @@ Sound effects
 
 Procedurally generating maze
 
-Pause screen
+Pause, win, & lose screens
 
-Win & lose screen
+Occlusion for windows
 
 ## References
 
