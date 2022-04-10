@@ -1,7 +1,7 @@
 # 05-FPS-Maze
 FPS Maze project for MSCH-C220 finished 10 April 2022.
 
-Moves with WASD and shoot with the spacebar or leftclick.
+Move with WASD and shoot with the spacebar or leftclick.
 
 ## Implementation
 
