@@ -5,6 +5,16 @@ Description
 
 ## Implementation
 
+Music
+
+Sound effects
+
+Procedurally generating maze
+
+Pause, win, & lose screens
+
+Occlusion for windows
+
 ## References
 
 Materials
