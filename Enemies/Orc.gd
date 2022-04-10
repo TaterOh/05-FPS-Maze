@@ -2,7 +2,7 @@ extends KinematicBody
 
 var grunts = []
 var Player = null
-export var speed = 3
+export var speed = 5
 var is_targeting = false
 var gravity = -30
 var velocity = Vector3()

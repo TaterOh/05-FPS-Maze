@@ -4,6 +4,7 @@ var menu = null
 
 func _ready():
 	pause_mode = Node.PAUSE_MODE_PROCESS
+	randomize()
 
 func _unhandled_input(_event):
 	if Input.is_action_pressed("menu"):

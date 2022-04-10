@@ -2,7 +2,7 @@ extends Spatial
 
 onready var Orc = preload("res://Enemies/Orc.tscn")
 onready var Maze = get_node("/root/Game/Maze")
-export var count = 15
+export var count = 10
 
 func _ready():
 	var locations = []
