@@ -9,7 +9,6 @@ Description
 
 Materials
 
-* [Moss](https://www.textures.com/download/PBR0426/137222) from [textures.com](https://www.textures.com)
 
 Models
 
